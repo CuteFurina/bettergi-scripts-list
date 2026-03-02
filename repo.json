@@ -1,5 +1,5 @@
 {
-  "time": "20260302092751",
+  "time": "20260302181044",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -94344,6 +94344,23 @@
             "成就"
           ],
           "lastUpdated": "2026-02-14 23:19:24"
+        },
+        {
+          "name": "AutoPlan",
+          "type": "directory",
+          "version": "0.0.1",
+          "author": "云端客",
+          "authors": [
+            {
+              "name": "云端客",
+              "link": "https://github.com/Kirito520Asuna"
+            }
+          ],
+          "description": "自动体力计划~|~",
+          "tags": [
+            "bgi≥0.57.2"
+          ],
+          "lastUpdated": "2026-03-02 18:10:15"
         },
         {
           "name": "AutoRefinedCondensationResin",
